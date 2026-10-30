@@ -1,0 +1,8 @@
+{
+  "name": "PMII Rayon FDK UIN SGD Bandung",
+  "description": "Website Resmi Pergerakan Mahasiswa Islam Indonesia (PMII) Rayon Fakultas Dakwah dan Komunikasi Komisariat UIN Sunan Gunung Djati Cabang Kota Bandung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
